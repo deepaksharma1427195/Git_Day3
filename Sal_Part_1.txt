@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Salaar-The Introduction of friends
+=======
+Salaar-The Introduction of two friends
+>>>>>>> 956e43c97f2caa8a59b416ecd9e7feb386252b72
